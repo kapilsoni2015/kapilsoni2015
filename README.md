@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kapilsoni2015
 - 👀 I’m interested in Python and Bash programming.
-- 🌱 I’m currently learning to automate vSphere, VxRail infratstructure and Docker/Kubernetes
+- 🌱 I’m currently learning to automate vSphere, VxRail and Docker/Kubernetes infratstructure as well as specific Python Frameworks
 - 💞️ I’m looking to collaborate on Python and Bash Projects
 - 📫 How to reach me ...
 - Blog : https://bashpyvirtualization.blogspot.com/
