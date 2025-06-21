@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @kapilsoni2015
-- 👀 I’m interested in Python programming and Bash scripting.
-- 🌱 I’m currently learning to leverage Python for vSphere, VxRail and Docker/Kubernetes infratstructure as well as learning some specific Python Frameworks
-- 💞️ I’m looking to collaborate on Python and Bash Projects
-- 📫 How to reach me ...
-- Blog : https://bashpyvirtualization.blogspot.com/
+- I am a Python and JavaScript person.
+- Started my programming habit with C and Bash.
+- 👀 I’m currently learning React JS and FrontEnd development.
+- My Old Blog : https://bashpyvirtualization.blogspot.com/
 
 <!---
 kapilsoni2015/kapilsoni2015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
